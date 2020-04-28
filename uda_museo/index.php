@@ -51,7 +51,7 @@ session_start();
                         <ul class="dropdown-menu" id="dropdown">
                             <li><a class="nav-link-drop" href="#">account</a></li><!--da visualizzare se loggato, sia per utente che amministratore-->
                             <li ><a class="nav-link-drop" href="#">acquisti</a></li><!--da visualizzare se loggato, sia per utente che amministratore-->
-                            <li ><a class="nav-link-drop" href="#">gestisci</a></li> <!--da vedere se loggato da amministratore-->
+                            <li ><a class="nav-link-drop" href="#">gestisci da amministratore</a></li> <!--da vedere se loggato da amministratore-->
                         </ul>
                     </li>
                     <li class="nav-item">
